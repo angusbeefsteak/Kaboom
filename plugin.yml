@@ -1,7 +1,7 @@
 name: HypixelKaboom
 main: club.infinitygames.kaboom.Kaboom
 version: 1.0
-author: ["Atticus Zambrana"]
+author: ["AtticusTheCoder"]
 commands:
   kaboom:
     description: Kaboom!
